@@ -2,6 +2,6 @@
 
 ![](windshader-tutorial.webp)
 
-This is the code for the wind shader tutorial series on YouTube.
+This is the code for my wind shader tutorial series on YouTube.
 
 - [YouTube - Part 1]()
